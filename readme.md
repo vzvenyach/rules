@@ -6,7 +6,7 @@
 git clone https://github.com/vzvenyach/rules.git
 cd rules
 npm install to minimist swig
-node run -i committees_resolution.md -d committees.yml -o PR21-2.txt
+node run -i committees_resolution.md -d committees.yml -o committee_resolution.txt
 ```
 
 ## License
